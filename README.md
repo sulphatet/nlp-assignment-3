@@ -3,7 +3,7 @@
 This repository contains the full pipeline for stress testing toxic language detection models.
 
 ## Structure
-- `scripts/`: Implementation scripts (run in numerical order).
+- `scripts/`: Implementation scripts.
 - `outputs/`: Raw model predictions (.jsonl).
 - `scores/`: Computed metrics and analysis results.
 
@@ -18,7 +18,6 @@ This repository contains the full pipeline for stress testing toxic language det
 
 2. **Run Pipeline**:
    ```bash
-   # In numerical order:
    python scripts/00_download_and_sample.py
    python scripts/01_perturb_surface.py
    python scripts/02_perturb_distributional.py
@@ -29,8 +28,3 @@ This repository contains the full pipeline for stress testing toxic language det
    python scripts/07_bias_analysis.py
    python scripts/08_plots.py
    ```
-
-3. **View Results**:
-   - Final Report: `report/assignment3_report.md`
-   - Key Figures: `report/figures/`
-   - Metrics Summary: `scores/aggregate/summary_table.csv`
