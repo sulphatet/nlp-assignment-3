@@ -3,11 +3,9 @@
 This repository contains the full pipeline for stress testing toxic language detection models.
 
 ## Structure
-- `data/`: Raw, clean, and perturbed datasets.
 - `scripts/`: Implementation scripts (run in numerical order).
 - `outputs/`: Raw model predictions (.jsonl).
 - `scores/`: Computed metrics and analysis results.
-- `report/`: Final report and figures.
 
 ## Instructions
 1. **Setup**:
