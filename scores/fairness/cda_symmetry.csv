@@ -1,0 +1,4 @@
+model,mean_abs_delta,median_abs_delta,pct_changed_gt_01,wilcoxon_stat,wilcoxon_p,significant_alpha_05
+bert_hatexplain,0.0081,0.0,0.0278,14960.0,0.458781,False
+twitter_roberta,0.0145,0.0,0.0367,11111.5,4.4e-05,True
+dynabench_roberta,0.0277,0.0,0.0689,11800.0,0.000682,True

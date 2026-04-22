@@ -1,0 +1,4 @@
+model,aave_n,aave_fpr,sae_n,sae_fpr,fpr_ratio,p_value,significant_alpha_05
+bert_hatexplain,83,0.2048,217,0.2765,0.741,0.2382,False
+twitter_roberta,83,1.0,217,1.0,1.0,1.0,False
+dynabench_roberta,83,0.3735,217,0.4332,0.862,0.3628,False

@@ -1,0 +1,44 @@
+{
+  "accuracy": 0.6478,
+  "macro_f1": 0.6441,
+  "weighted_f1": 0.6441,
+  "auc_roc": 0.8178,
+  "per_class": {
+    "hate_speech": {
+      "precision": 0.7191,
+      "recall": 0.7167,
+      "f1": 0.7179,
+      "support": 300
+    },
+    "offensive": {
+      "precision": 0.5654,
+      "recall": 0.49,
+      "f1": 0.525,
+      "support": 300
+    },
+    "normal": {
+      "precision": 0.6481,
+      "recall": 0.7367,
+      "f1": 0.6895,
+      "support": 300
+    }
+  },
+  "confusion_matrix": [
+    [
+      215,
+      56,
+      29
+    ],
+    [
+      62,
+      147,
+      91
+    ],
+    [
+      22,
+      57,
+      221
+    ]
+  ],
+  "n": 900
+}

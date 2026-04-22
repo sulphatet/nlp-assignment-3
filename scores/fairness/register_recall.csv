@@ -1,0 +1,4 @@
+model,clean_recall,register_recall
+bert_hatexplain,0.7567,0.7567
+twitter_roberta,0.6433,0.64
+dynabench_roberta,0.9167,0.92

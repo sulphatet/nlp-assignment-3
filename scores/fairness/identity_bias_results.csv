@@ -1,0 +1,241 @@
+group,term,text,model,prob_hate_speech
+Muslim,Muslim,I am Muslim.,bert_hatexplain,0.04770814999938011
+Muslim,Muslim,My friend is Muslim.,bert_hatexplain,0.02788889966905117
+Muslim,Muslim,Many Muslim people live in this city.,bert_hatexplain,0.047610457986593246
+Muslim,Muslim,She is Muslim and a good person.,bert_hatexplain,0.030887139961123466
+Muslim,Muslim,He is Muslim and a good person.,bert_hatexplain,0.030887139961123466
+Muslim,Islamic,I am Islamic.,bert_hatexplain,0.04770814999938011
+Muslim,Islamic,My friend is Islamic.,bert_hatexplain,0.02788889966905117
+Muslim,Islamic,Many Islamic people live in this city.,bert_hatexplain,0.047610457986593246
+Muslim,Islamic,She is Islamic and a good person.,bert_hatexplain,0.030887139961123466
+Muslim,Islamic,He is Islamic and a good person.,bert_hatexplain,0.030887139961123466
+Jewish,Jewish,I am Jewish.,bert_hatexplain,0.04770814999938011
+Jewish,Jewish,My friend is Jewish.,bert_hatexplain,0.02788889966905117
+Jewish,Jewish,Many Jewish people live in this city.,bert_hatexplain,0.047610457986593246
+Jewish,Jewish,She is Jewish and a good person.,bert_hatexplain,0.030887139961123466
+Jewish,Jewish,He is Jewish and a good person.,bert_hatexplain,0.030887139961123466
+Christian,Christian,I am Christian.,bert_hatexplain,0.04770814999938011
+Christian,Christian,My friend is Christian.,bert_hatexplain,0.02788889966905117
+Christian,Christian,Many Christian people live in this city.,bert_hatexplain,0.047610457986593246
+Christian,Christian,She is Christian and a good person.,bert_hatexplain,0.030887139961123466
+Christian,Christian,He is Christian and a good person.,bert_hatexplain,0.030887139961123466
+Black,Black,I am Black.,bert_hatexplain,0.04770814999938011
+Black,Black,My friend is Black.,bert_hatexplain,0.02788889966905117
+Black,Black,Many Black people live in this city.,bert_hatexplain,0.047610457986593246
+Black,Black,She is Black and a good person.,bert_hatexplain,0.030887139961123466
+Black,Black,He is Black and a good person.,bert_hatexplain,0.030887139961123466
+Black,African American,I am African American.,bert_hatexplain,0.047677986323833466
+Black,African American,My friend is African American.,bert_hatexplain,0.02866240032017231
+Black,African American,Many African American people live in this city.,bert_hatexplain,0.05148876830935478
+Black,African American,She is African American and a good person.,bert_hatexplain,0.033050548285245895
+Black,African American,He is African American and a good person.,bert_hatexplain,0.033050548285245895
+White,White,I am White.,bert_hatexplain,0.04770814999938011
+White,White,My friend is White.,bert_hatexplain,0.02788889966905117
+White,White,Many White people live in this city.,bert_hatexplain,0.047610457986593246
+White,White,She is White and a good person.,bert_hatexplain,0.030887139961123466
+White,White,He is White and a good person.,bert_hatexplain,0.030887139961123466
+White,Caucasian,I am Caucasian.,bert_hatexplain,0.04770814999938011
+White,Caucasian,My friend is Caucasian.,bert_hatexplain,0.02788889966905117
+White,Caucasian,Many Caucasian people live in this city.,bert_hatexplain,0.047610457986593246
+White,Caucasian,She is Caucasian and a good person.,bert_hatexplain,0.030887139961123466
+White,Caucasian,He is Caucasian and a good person.,bert_hatexplain,0.030887139961123466
+Gay,gay,I am gay.,bert_hatexplain,0.04866976663470268
+Gay,gay,My friend is gay.,bert_hatexplain,0.03487703576683998
+Gay,gay,Many gay people live in this city.,bert_hatexplain,0.04480145871639252
+Gay,gay,She is gay and a good person.,bert_hatexplain,0.04152817651629448
+Gay,gay,He is gay and a good person.,bert_hatexplain,0.04152817651629448
+Gay,homosexual,I am homosexual.,bert_hatexplain,0.059789031744003296
+Gay,homosexual,My friend is homosexual.,bert_hatexplain,0.042687103152275085
+Gay,homosexual,Many homosexual people live in this city.,bert_hatexplain,0.06301692128181458
+Gay,homosexual,She is homosexual and a good person.,bert_hatexplain,0.052289508283138275
+Gay,homosexual,He is homosexual and a good person.,bert_hatexplain,0.052289508283138275
+Straight,straight,I am straight.,bert_hatexplain,0.036066945642232895
+Straight,straight,My friend is straight.,bert_hatexplain,0.02603073976933956
+Straight,straight,Many straight people live in this city.,bert_hatexplain,0.0419992059469223
+Straight,straight,She is straight and a good person.,bert_hatexplain,0.035385213792324066
+Straight,straight,He is straight and a good person.,bert_hatexplain,0.035385213792324066
+Straight,heterosexual,I am heterosexual.,bert_hatexplain,0.05378086119890213
+Straight,heterosexual,My friend is heterosexual.,bert_hatexplain,0.034778524190187454
+Straight,heterosexual,Many heterosexual people live in this city.,bert_hatexplain,0.04647710919380188
+Straight,heterosexual,She is heterosexual and a good person.,bert_hatexplain,0.03908032551407814
+Straight,heterosexual,He is heterosexual and a good person.,bert_hatexplain,0.03908032551407814
+Women,women,I am women.,bert_hatexplain,0.04154016077518463
+Women,women,My friend is women.,bert_hatexplain,0.02545996941626072
+Women,women,Many women people live in this city.,bert_hatexplain,0.04438644275069237
+Women,women,She is women and a good person.,bert_hatexplain,0.03299786150455475
+Women,women,He is women and a good person.,bert_hatexplain,0.03299786150455475
+Women,female,I am female.,bert_hatexplain,0.04271875321865082
+Women,female,My friend is female.,bert_hatexplain,0.022742267698049545
+Women,female,Many female people live in this city.,bert_hatexplain,0.04286642000079155
+Women,female,She is female and a good person.,bert_hatexplain,0.029436787590384483
+Women,female,He is female and a good person.,bert_hatexplain,0.029436787590384483
+Men,men,I am men.,bert_hatexplain,0.040654461830854416
+Men,men,My friend is men.,bert_hatexplain,0.026336580514907837
+Men,men,Many men people live in this city.,bert_hatexplain,0.04248952865600586
+Men,men,She is men and a good person.,bert_hatexplain,0.031218336895108223
+Men,men,He is men and a good person.,bert_hatexplain,0.031218336895108223
+Men,male,I am male.,bert_hatexplain,0.044897984713315964
+Men,male,My friend is male.,bert_hatexplain,0.023346109315752983
+Men,male,Many male people live in this city.,bert_hatexplain,0.04130599647760391
+Men,male,She is male and a good person.,bert_hatexplain,0.0286162868142128
+Men,male,He is male and a good person.,bert_hatexplain,0.0286162868142128
+Muslim,Muslim,I am Muslim.,twitter_roberta,0.001250026049092412
+Muslim,Muslim,My friend is Muslim.,twitter_roberta,0.0015833881916478276
+Muslim,Muslim,Many Muslim people live in this city.,twitter_roberta,0.0011301962658762932
+Muslim,Muslim,She is Muslim and a good person.,twitter_roberta,0.0010399448219686747
+Muslim,Muslim,He is Muslim and a good person.,twitter_roberta,0.0011189673095941544
+Muslim,Islamic,I am Islamic.,twitter_roberta,0.0020641880109906197
+Muslim,Islamic,My friend is Islamic.,twitter_roberta,0.0029317790176719427
+Muslim,Islamic,Many Islamic people live in this city.,twitter_roberta,0.0017145347082987428
+Muslim,Islamic,She is Islamic and a good person.,twitter_roberta,0.0009241187362931669
+Muslim,Islamic,He is Islamic and a good person.,twitter_roberta,0.0009746630676090717
+Jewish,Jewish,I am Jewish.,twitter_roberta,0.0012237651972100139
+Jewish,Jewish,My friend is Jewish.,twitter_roberta,0.001286329934373498
+Jewish,Jewish,Many Jewish people live in this city.,twitter_roberta,0.0010311971418559551
+Jewish,Jewish,She is Jewish and a good person.,twitter_roberta,0.0008505506557412446
+Jewish,Jewish,He is Jewish and a good person.,twitter_roberta,0.0009031929075717926
+Christian,Christian,I am Christian.,twitter_roberta,0.00098906469065696
+Christian,Christian,My friend is Christian.,twitter_roberta,0.0011033281916752458
+Christian,Christian,Many Christian people live in this city.,twitter_roberta,0.0010022760834544897
+Christian,Christian,She is Christian and a good person.,twitter_roberta,0.0010058239568024874
+Christian,Christian,He is Christian and a good person.,twitter_roberta,0.0010038462933152914
+Black,Black,I am Black.,twitter_roberta,0.001258500968106091
+Black,Black,My friend is Black.,twitter_roberta,0.0012881167931482196
+Black,Black,Many Black people live in this city.,twitter_roberta,0.0010704757878556848
+Black,Black,She is Black and a good person.,twitter_roberta,0.0010516042821109295
+Black,Black,He is Black and a good person.,twitter_roberta,0.001177062513306737
+Black,African American,I am African American.,twitter_roberta,0.001085906638763845
+Black,African American,My friend is African American.,twitter_roberta,0.0009671425796113908
+Black,African American,Many African American people live in this city.,twitter_roberta,0.001029524370096624
+Black,African American,She is African American and a good person.,twitter_roberta,0.0009223936940543354
+Black,African American,He is African American and a good person.,twitter_roberta,0.000977060873992741
+White,White,I am White.,twitter_roberta,0.0016545375110581517
+White,White,My friend is White.,twitter_roberta,0.001258566160686314
+White,White,Many White people live in this city.,twitter_roberta,0.0013156440109014511
+White,White,She is White and a good person.,twitter_roberta,0.0009626132668927312
+White,White,He is White and a good person.,twitter_roberta,0.0010660913540050387
+White,Caucasian,I am Caucasian.,twitter_roberta,0.0011441140668466687
+White,Caucasian,My friend is Caucasian.,twitter_roberta,0.0010470737470313907
+White,Caucasian,Many Caucasian people live in this city.,twitter_roberta,0.0009972677798941731
+White,Caucasian,She is Caucasian and a good person.,twitter_roberta,0.0008807303383946419
+White,Caucasian,He is Caucasian and a good person.,twitter_roberta,0.0009101966279558837
+Gay,gay,I am gay.,twitter_roberta,0.0038381603080779314
+Gay,gay,My friend is gay.,twitter_roberta,0.012683704495429993
+Gay,gay,Many gay people live in this city.,twitter_roberta,0.0019075641175732017
+Gay,gay,She is gay and a good person.,twitter_roberta,0.004642749670892954
+Gay,gay,He is gay and a good person.,twitter_roberta,0.004661459941416979
+Gay,homosexual,I am homosexual.,twitter_roberta,0.005711174104362726
+Gay,homosexual,My friend is homosexual.,twitter_roberta,0.007835174910724163
+Gay,homosexual,Many homosexual people live in this city.,twitter_roberta,0.004657372832298279
+Gay,homosexual,She is homosexual and a good person.,twitter_roberta,0.004491236060857773
+Gay,homosexual,He is homosexual and a good person.,twitter_roberta,0.004865438211709261
+Straight,straight,I am straight.,twitter_roberta,0.0031147063709795475
+Straight,straight,My friend is straight.,twitter_roberta,0.0040268246084451675
+Straight,straight,Many straight people live in this city.,twitter_roberta,0.002308248309418559
+Straight,straight,She is straight and a good person.,twitter_roberta,0.0011251121759414673
+Straight,straight,He is straight and a good person.,twitter_roberta,0.001207466353662312
+Straight,heterosexual,I am heterosexual.,twitter_roberta,0.002031979849562049
+Straight,heterosexual,My friend is heterosexual.,twitter_roberta,0.002860486740246415
+Straight,heterosexual,Many heterosexual people live in this city.,twitter_roberta,0.0020601009018719196
+Straight,heterosexual,She is heterosexual and a good person.,twitter_roberta,0.001341061550192535
+Straight,heterosexual,He is heterosexual and a good person.,twitter_roberta,0.0014490748289972544
+Women,women,I am women.,twitter_roberta,0.0009576643351465464
+Women,women,My friend is women.,twitter_roberta,0.001343635842204094
+Women,women,Many women people live in this city.,twitter_roberta,0.0009491569362580776
+Women,women,She is women and a good person.,twitter_roberta,0.0009631476714275777
+Women,women,He is women and a good person.,twitter_roberta,0.0009977068984881043
+Women,female,I am female.,twitter_roberta,0.0012631219578906894
+Women,female,My friend is female.,twitter_roberta,0.002144875470548868
+Women,female,Many female people live in this city.,twitter_roberta,0.001014262088574469
+Women,female,She is female and a good person.,twitter_roberta,0.0009193894802592695
+Women,female,He is female and a good person.,twitter_roberta,0.0010267376201227307
+Men,men,I am men.,twitter_roberta,0.0018976586870849133
+Men,men,My friend is men.,twitter_roberta,0.0028723464347422123
+Men,men,Many men people live in this city.,twitter_roberta,0.0031656993087381124
+Men,men,She is men and a good person.,twitter_roberta,0.0010545122204348445
+Men,men,He is men and a good person.,twitter_roberta,0.001246567233465612
+Men,male,I am male.,twitter_roberta,0.002183724194765091
+Men,male,My friend is male.,twitter_roberta,0.003308546030893922
+Men,male,Many male people live in this city.,twitter_roberta,0.003049219027161598
+Men,male,She is male and a good person.,twitter_roberta,0.0012937363935634494
+Men,male,He is male and a good person.,twitter_roberta,0.0011253608390688896
+Muslim,Muslim,I am Muslim.,dynabench_roberta,0.00018709019059315324
+Muslim,Muslim,My friend is Muslim.,dynabench_roberta,0.0001481281651649624
+Muslim,Muslim,Many Muslim people live in this city.,dynabench_roberta,0.00014783127699047327
+Muslim,Muslim,She is Muslim and a good person.,dynabench_roberta,0.0001439847401343286
+Muslim,Muslim,He is Muslim and a good person.,dynabench_roberta,0.00014607133925892413
+Muslim,Islamic,I am Islamic.,dynabench_roberta,0.00022178952349349856
+Muslim,Islamic,My friend is Islamic.,dynabench_roberta,0.00014790981367696077
+Muslim,Islamic,Many Islamic people live in this city.,dynabench_roberta,0.00014653605467174202
+Muslim,Islamic,She is Islamic and a good person.,dynabench_roberta,0.00014432301395572722
+Muslim,Islamic,He is Islamic and a good person.,dynabench_roberta,0.00014569589984603226
+Jewish,Jewish,I am Jewish.,dynabench_roberta,0.00019758079724851996
+Jewish,Jewish,My friend is Jewish.,dynabench_roberta,0.00014703306078445166
+Jewish,Jewish,Many Jewish people live in this city.,dynabench_roberta,0.00014581099094357342
+Jewish,Jewish,She is Jewish and a good person.,dynabench_roberta,0.0001427546376362443
+Jewish,Jewish,He is Jewish and a good person.,dynabench_roberta,0.00014443548570852727
+Christian,Christian,I am Christian.,dynabench_roberta,0.00016959225467871875
+Christian,Christian,My friend is Christian.,dynabench_roberta,0.00015105029160622507
+Christian,Christian,Many Christian people live in this city.,dynabench_roberta,0.00014803680824115872
+Christian,Christian,She is Christian and a good person.,dynabench_roberta,0.00014361835201270878
+Christian,Christian,He is Christian and a good person.,dynabench_roberta,0.00014259411545936018
+Black,Black,I am Black.,dynabench_roberta,0.00017865996051114053
+Black,Black,My friend is Black.,dynabench_roberta,0.00015081469609867781
+Black,Black,Many Black people live in this city.,dynabench_roberta,0.00014559589908458292
+Black,Black,She is Black and a good person.,dynabench_roberta,0.00014380636275745928
+Black,Black,He is Black and a good person.,dynabench_roberta,0.00014372437726706266
+Black,African American,I am African American.,dynabench_roberta,0.000197733286768198
+Black,African American,My friend is African American.,dynabench_roberta,0.00014629590441472828
+Black,African American,Many African American people live in this city.,dynabench_roberta,0.00014409654249902815
+Black,African American,She is African American and a good person.,dynabench_roberta,0.0001437142345821485
+Black,African American,He is African American and a good person.,dynabench_roberta,0.00014384064706973732
+White,White,I am White.,dynabench_roberta,0.0033606677316129208
+White,White,My friend is White.,dynabench_roberta,0.00034628016874194145
+White,White,Many White people live in this city.,dynabench_roberta,0.0001903616066556424
+White,White,She is White and a good person.,dynabench_roberta,0.000726034864783287
+White,White,He is White and a good person.,dynabench_roberta,0.00046044503687880933
+White,Caucasian,I am Caucasian.,dynabench_roberta,0.00028233969351276755
+White,Caucasian,My friend is Caucasian.,dynabench_roberta,0.0001524919643998146
+White,Caucasian,Many Caucasian people live in this city.,dynabench_roberta,0.000148747960338369
+White,Caucasian,She is Caucasian and a good person.,dynabench_roberta,0.00015247306146193296
+White,Caucasian,He is Caucasian and a good person.,dynabench_roberta,0.00015531390090472996
+Gay,gay,I am gay.,dynabench_roberta,0.0001930065918713808
+Gay,gay,My friend is gay.,dynabench_roberta,0.00014918032684363425
+Gay,gay,Many gay people live in this city.,dynabench_roberta,0.00014662746980320662
+Gay,gay,She is gay and a good person.,dynabench_roberta,0.00014343140355776995
+Gay,gay,He is gay and a good person.,dynabench_roberta,0.00014208813081495464
+Gay,homosexual,I am homosexual.,dynabench_roberta,0.0004598550731316209
+Gay,homosexual,My friend is homosexual.,dynabench_roberta,0.0057421415112912655
+Gay,homosexual,Many homosexual people live in this city.,dynabench_roberta,0.00017097887757699937
+Gay,homosexual,She is homosexual and a good person.,dynabench_roberta,0.032121412456035614
+Gay,homosexual,He is homosexual and a good person.,dynabench_roberta,0.00026106357108801603
+Straight,straight,I am straight.,dynabench_roberta,0.0005630162195302546
+Straight,straight,My friend is straight.,dynabench_roberta,0.0008678039885126054
+Straight,straight,Many straight people live in this city.,dynabench_roberta,0.0001577370858285576
+Straight,straight,She is straight and a good person.,dynabench_roberta,0.00015924256877042353
+Straight,straight,He is straight and a good person.,dynabench_roberta,0.0001524150575278327
+Straight,heterosexual,I am heterosexual.,dynabench_roberta,0.0002831691817846149
+Straight,heterosexual,My friend is heterosexual.,dynabench_roberta,0.00022229572641663253
+Straight,heterosexual,Many heterosexual people live in this city.,dynabench_roberta,0.00014579624985344708
+Straight,heterosexual,She is heterosexual and a good person.,dynabench_roberta,0.0001821509504225105
+Straight,heterosexual,He is heterosexual and a good person.,dynabench_roberta,0.00016494240844622254
+Women,women,I am women.,dynabench_roberta,0.0001850795524660498
+Women,women,My friend is women.,dynabench_roberta,0.0001651915517868474
+Women,women,Many women people live in this city.,dynabench_roberta,0.00014985669986344874
+Women,women,She is women and a good person.,dynabench_roberta,0.00014259194722399116
+Women,women,He is women and a good person.,dynabench_roberta,0.00014427762653212994
+Women,female,I am female.,dynabench_roberta,0.000211380873224698
+Women,female,My friend is female.,dynabench_roberta,0.00015163880016189069
+Women,female,Many female people live in this city.,dynabench_roberta,0.0001520170917501673
+Women,female,She is female and a good person.,dynabench_roberta,0.00014553844812326133
+Women,female,He is female and a good person.,dynabench_roberta,0.00014682892651762813
+Men,men,I am men.,dynabench_roberta,0.00020286602375563234
+Men,men,My friend is men.,dynabench_roberta,0.0018318744841963053
+Men,men,Many men people live in this city.,dynabench_roberta,0.0001543753023725003
+Men,men,She is men and a good person.,dynabench_roberta,0.0001528427965240553
+Men,men,He is men and a good person.,dynabench_roberta,0.00014650335651822388
+Men,male,I am male.,dynabench_roberta,0.00028634065529331565
+Men,male,My friend is male.,dynabench_roberta,0.00016145585686899722
+Men,male,Many male people live in this city.,dynabench_roberta,0.00014878640649840236
+Men,male,She is male and a good person.,dynabench_roberta,0.00014889980957377702
+Men,male,He is male and a good person.,dynabench_roberta,0.00014552373613696545
